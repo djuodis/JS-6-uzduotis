@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin-left: 5px;
+}
+
+h1 {
+    margin: 20px 0;
+}
+
+input {
+    border: 1px solid black;
+    border-radius: 2px;
+    width: 165.6px;
+
+}
+
+.addbtn,
+.btnremove1,
+.btnremove2
+ {
+    border: 1px solid black;
+    border-radius: 2px;
+    width: 165.6px;
+    margin-top: 10px;
+ }
+
+
+
+
+table {
+    margin-top: 10px;
+    width: 35%;
+    background: #ffc107;
+}
+
+.pavardė {
+    background: #e7ae30;
+    padding: 10px 0px;
+}
+
+td {
+    padding-left: 10px;
+    background: #392c6e;
+    padding:  15px 10px;
+    color: white;
+}
+
+
